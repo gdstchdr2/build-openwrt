@@ -4,7 +4,7 @@
 # AutoBuild Actions
 
 Diy_Core() {
-	Author="281677160"
+	Author="cici-bbw"
 	Default_Device="x86-64"
 	Updete_firmware="combined-squashfs.img.gz"
 	Extension=".img.gz"
